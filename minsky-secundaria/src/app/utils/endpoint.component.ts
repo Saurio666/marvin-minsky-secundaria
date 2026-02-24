@@ -30,13 +30,13 @@ export class EndpointComponent {
     }
 
     public obtenerContenido(id: any): Observable<any> {
-        return this.httpClient.get<any>(`/assets/content/${id}.json`).pipe(
+        return this.httpClient.get<any>(`assets/content/${id}.json`).pipe(
             catchError(this.handleError('obtenerContenido', { message: `Could not get content detail ${id}` }))
         );
     }
 
     public obtenerPerfil(id: any): Observable<any> {
-        return this.httpClient.get<any>(`/assets/content/profile/${id}.json`).pipe(
+        return this.httpClient.get<any>(`assets/content/profile/${id}.json`).pipe(
             catchError(this.handleError('obtenerPerfil', { message: `Could not get profile detail ${id}` }))
         );
     }

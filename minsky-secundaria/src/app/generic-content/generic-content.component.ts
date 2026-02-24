@@ -19,10 +19,11 @@ export class GenericContentComponent implements OnInit{
   ngOnInit(): void {
     this.route.queryParamMap.subscribe(params => this.idContenido = params.get('id'));
 
-
-    this.endpoint.obtenerContenido(this.idContenido).subscribe(r =>
-      this.contentData = r
-    );
+    if (this.idContenido) {
+      this.endpoint.obtenerContenido(this.idContenido).subscribe(r =>
+        this.contentData = r
+      );
+    }
   }
 
 }
