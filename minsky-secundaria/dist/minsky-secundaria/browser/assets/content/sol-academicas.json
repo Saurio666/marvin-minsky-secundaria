@@ -1,0 +1,16 @@
+{
+    "titulo": "Académicas",
+    "componentes": [
+        {
+            "tipo": "lista",
+            "subparrafo":"",
+            "estilo": "bullet",
+            "contenido": [
+                {"item": "Preparación para ingreso a Universidades y Escuelas Politécnicas"},
+                {"item": "Asesoría en proyectos educativos"},
+                {"item": "Asesoría en dirección de Tesis de Posgrado"},
+                {"item": "Asesoría en dirección de Tesis Doctorado (PhD)"}
+            ]
+        }
+    ]
+}

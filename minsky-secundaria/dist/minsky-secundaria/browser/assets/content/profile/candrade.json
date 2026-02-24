@@ -1,0 +1,28 @@
+{
+    "nombre": "Msc. Clara Andrade",
+    "imagen": "assets/images/profiles/msclaraandrade.JPG",
+    "profesional": [
+        {"item": "Máster en la Formación y Perfeccionamiento del Profesorado. Especialidad de Lengua y Literatura. Universidad de Salamanca. España"},
+        {"item": "Licenciada en Ciencias de la Educación. Especialización Ciencias Sociales. Universidad UTE. Quito - Ecuador"},
+        {"item": "Licenciada en Ciencias de la Educación, Especialización Lenguaje Y Comunicación. Universidad UTE. Quito - Ecuador"}
+    ],
+    "competencias":[
+        {"item": "Liderazgo, experticia, pertinencia, eficiencia y calidez en educación"},
+        {"item": "Trabajo colaborativo"},
+        {"item": "Trabajo en equipo"},
+        {"item": "Comunicación Efectiva"}
+    ],
+    "areas":[
+        {"item": "Ciencias Sociales y afines"},
+        {"item": "Lengua y Literatura y afines"},
+        {"item": "Experta en Investigación de modelos educativos con TIC."},
+        {"item": "Autora de varios libros y capítulos de libros y artículos publicados en revistas de alto impacto (Emerging Source Citation Index, Latindex, Redalcy, Scielo, Scopus)."}
+    ],
+    "experiencia":[
+        {"item": "Vicerrectora Unidad Educativa Particular Marvin Minsky de Educación Online"},
+        {"item": "Secretaria General y Docente de Lengua y Literatura. Unidad Educativa Cardenal De La Torre. Quito - Ecuador"},
+        {"item": "Docente de Lengua y Literatura, Coordinadora de Área. Unidad Educativa Fiscal PCI. Gabriela Mistral. Quito - Ecuador"},
+        {"item": "Docente de Ciencias Sociales (Básica Superior). Unidad Educativa Luis Fidel Martínez. Quito - Ecuador"},
+        {"item": "Docente de Lengua y Literatura. Instituto Nacional Mejía Quito - Ecuador"}
+    ]
+}

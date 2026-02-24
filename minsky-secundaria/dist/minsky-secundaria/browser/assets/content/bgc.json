@@ -1,0 +1,174 @@
+{
+    "titulo": "Bachillerato General en Ciencias",
+    "componentes": [
+        {
+            "tipo": "subtitulo3",
+            "contenido": "Régimen Sierra y Régimen Costa"
+        },
+        {
+            "tipo": "subtitulo2",
+            "contenido": "Primer Año - Ciencias"
+        },
+        {
+            "tipo": "lista",
+            "estilo": "bullet",
+            "contenido": [
+                {
+                    "item": "Matemática"
+                },
+                {
+                    "item": "Física"
+                },
+                {
+                    "item": "Química"
+                },
+                {
+                    "item": "Biología"
+                },
+                {
+                    "item": "Historia"
+                },
+                {
+                    "item": "Educación para la Ciudadanía"
+                },
+                {
+                    "item": "Filosofía"
+                },
+                {
+                    "item": "Lengua y Literatura"
+                },
+                {
+                    "item": "Inglés"
+                },
+                {
+                    "item": "Emprendimiento y Gestión"
+                },
+                {
+                    "item": "STEM / Ciencias"
+                },
+                {
+                    "item": "Algoritmos y Programación"
+                },
+                {
+                    "item": "Educación Cultural y Artística"
+                },
+                {
+                    "item": "Educación Física"
+                },
+                {
+                    "item": "Cívica y Acompañamiento Integral en el Aula"
+                }
+            ]
+        },
+        {
+            "tipo": "subtitulo2",
+            "contenido": "Segundo Año - Ciencias"
+        },
+        {
+            "tipo": "lista",
+            "estilo": "bullet",
+            "contenido": [
+                {
+                    "item": "Matemática"
+                },
+                {
+                    "item": "Física"
+                },
+                {
+                    "item": "Química"
+                },
+                {
+                    "item": "Biología"
+                },
+                {
+                    "item": "Historia"
+                },
+                {
+                    "item": "Educación para la Ciudadanía"
+                },
+                {
+                    "item": "Filosofía"
+                },
+                {
+                    "item": "Lengua y Literatura"
+                },
+                {
+                    "item": "Inglés"
+                },
+                {
+                    "item": "Emprendimiento y Gestión"
+                },
+                {
+                    "item": "STEM / Ciencias"
+                },
+                {
+                    "item": "Algoritmos y Programación"
+                },
+                {
+                    "item": "Educación Cultural y Artística"
+                },
+                {
+                    "item": "Educación Física"
+                },
+                {
+                    "item": "Cívica y Acompañamiento Integral en el Aula"
+                }
+            ]
+        },
+        {
+            "tipo": "subtitulo2",
+            "contenido": "Tercer Año - Ciencias"
+        },
+        {
+            "tipo": "lista",
+            "estilo": "bullet",
+            "contenido": [
+                {
+                    "item": "Matemática"
+                },
+                {
+                    "item": "Física"
+                },
+                {
+                    "item": "Química"
+                },
+                {
+                    "item": "Biología"
+                },
+                {
+                    "item": "Historia"
+                },
+                {
+                    "item": "Educación para la Ciudadanía"
+                },
+                {
+                    "item": "Filosofía"
+                },
+                {
+                    "item": "Lengua y Literatura"
+                },
+                {
+                    "item": "Inglés"
+                },
+                {
+                    "item": "Emprendimiento y Gestión"
+                },
+                {
+                    "item": "STEM / Ciencias"
+                },
+                {
+                    "item": "Algoritmos y Programación"
+                },
+                {
+                    "item": "Educación Cultural y Artística"
+                },
+                {
+                    "item": "Educación Física"
+                },
+                {
+                    "item": "Cívica y Acompañamiento Integral en el Aula"
+                }
+            ]
+        }
+    ]
+}

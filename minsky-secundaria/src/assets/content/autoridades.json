@@ -1,0 +1,28 @@
+{
+    "titulo": "Autoridades",
+    "componentes": [
+        {
+            "tipo": "perfiles",
+            "contenido": [
+                {
+                    "nombre": "Dr. Jorge Revelo, PhD.",
+                    "descripcion": "RECTOR",
+                    "url": "perfil?id=jerevelo",
+                    "imagen": "assets/images/rector.JPG"
+                },
+                {
+                    "nombre": "Msc. Clara Andrade",
+                    "descripcion": "VICERRECTORA",
+                    "url": "perfil?id=candrade",
+                    "imagen": "assets/images/profiles/msclaraandrade.JPG"
+                },
+                {
+                    "nombre": "Msc. Carmen Rubio",
+                    "descripcion": "DECE",
+                    "url": "perfil?id=crubio",
+                    "imagen": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+<div id="main">
+    <div class="wrapper">
+        <div class="inner" style="padding-left: 20px; padding-right: 20px;">
+            <div class="row">
+                <div class="col-4" style="text-align: center;">
+                    @if(this.contentData?.imagen){
+                        <img src="{{this.contentData?.imagen}}" style="max-width: 400px; box-shadow: 10px 10px 5px #e2e2e2;" />
+                    }
+                    @else {
+                        <img src="assets/images/avatardefault_92824.png" style="max-width: 400px; box-shadow: 10px 10px 5px #e2e2e2;" />
+                    }
+                </div>
+                <div class="col-8">
+                    <h2 class="subtitulo" style="text-shadow: 2px 2px 4px #99999c">{{this.contentData?.nombre}}</h2>
+
+                    <h3 class="subtitulo">PERFIL PROFESIONAL</h3>
+                    <ul>
+                        @for (item of this.contentData?.profesional; track item) {
+                            
+                            <li>{{item.item}}</li>
+                        }
+                    </ul>
+                </div>
+            </div>
+            <div>
+                <h3 class="subtitulo">COMPETENCIAS</h3>
+                <ul>
+                    @for (item of this.contentData?.competencias; track item) {
+                        <li>{{item.item}}</li>
+                    }
+                </ul>
+                <h3 class="subtitulo">Docente experto en las áreas de:</h3>
+                <ul>
+                    @for (item of this.contentData?.areas; track item) {
+                        <li>{{item.item}}</li>
+                    }
+                </ul>
+                <h3 class="subtitulo">EXPERIENCIA PROFESIONAL</h3>
+                <ul>
+                    @for (item of this.contentData?.experiencia; track item) {
+                        <li>{{item.item}}</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

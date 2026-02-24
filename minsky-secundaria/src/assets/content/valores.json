@@ -1,0 +1,33 @@
+{
+    "titulo": "Nuestros Valores",
+    "componentes": [
+        {
+            "tipo": "lista",
+            "subparrafo":"",
+            "estilo": "bullet",
+            "contenido": [
+                {
+                    "item": "<strong>Amor:</strong> La educación es un acto de amor, por tanto, el amor es un pilar fundamental en la educación. Educamos con amor a niños y jóvenes para que crezcan en un ambiente de seguridad, confianza en sí mismo, lo que, les permitirá ser excelentes personas y grandes profesionales."
+                },
+                {
+                    "item":"<strong>Libertad:</strong> Enseñamos a nuestros niños y jóvenes a expresar libremente sus opiniones, hacer uso de sus derechos respetando las de los demás."
+                },
+                {
+                    "item":"<strong>Honestidad:</strong> La honestidad es un valor que permite a las personas determinar, elegir y actuar siempre con base a la sinceridad y la verdad en busca de una auténtica justicia. La honestidad expresa respeto por uno mismo y por los demás."
+                },
+                {
+                    "item":"<strong>Responsabilidad:</strong> Es un valor que nos permite convivir en sociedad de una manera pacífica y equitativa. La responsabilidad nos convierte en personas fiables que estamos a la altura de cumplir con nuestros compromisos y obligaciones."
+                },
+                {
+                    "item":"<strong>Solidaridad:</strong> Es un valor que enseña a nuestro niños y jóvenes a tomar conciencia de las necesidades de los demás y el deseo de contribuir y colaborar para su satisfacción. Es un valor que hay que fomentar en la familia y lo reforzamos en nuestra institución."
+                },
+                {
+                    "item":"<strong>Puntualidad:</strong> Es una actitud humana que se construye por el esfuerzo de estar a tiempo en el lugar adecuado. Es la disciplina de estar a tiempo para cumplir nuestras actividades, desempeñar mejor nuestro trabajo, ser merecedores de confianza."
+                },
+                {
+                    "item":"<strong>Respeto:</strong> El respeto es la base de la educación. La importancia de la educación en valores tiene sus cimientos en la equidad, el respeto, la libertad y en el amor, desde una perspectiva dirigida siempre al bien común de las personas."
+                }
+            ]
+        }
+    ]
+}

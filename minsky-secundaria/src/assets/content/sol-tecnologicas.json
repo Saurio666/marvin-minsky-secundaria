@@ -1,0 +1,15 @@
+{
+    "titulo": "Tecnológicas",
+    "componentes": [
+        {
+            "tipo": "lista",
+            "subparrafo":"",
+            "estilo": "bullet",
+            "contenido": [
+                {"item": "TIC en educación"},
+                {"item": "Competencias Digitales"},
+                {"item": "Manejo de Plataformas Digitales"}
+            ]
+        }
+    ]
+}

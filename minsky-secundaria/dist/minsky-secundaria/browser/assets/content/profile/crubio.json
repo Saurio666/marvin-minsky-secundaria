@@ -1,0 +1,25 @@
+{
+    "nombre": "Msc. Carmen Rubio Rivera",
+    "imagen": "",
+    "profesional": [
+        {"item": "Máster en Diseño y Gestión de Proyectos Socio Educativos. Universidad Central del Ecuador. Quito – Ecuador"},
+        {"item": "Licenciada en Ciencias de la Educación. Mención Psicología Educativa y Orientación. Universidad Central del Ecuador. Quito - Ecuador"}
+    ],
+    "competencias":[
+        {"item": "Liderazgo, experticia, pertinencia, eficiencia y calidez en educación"},
+        {"item": "Trabajo colaborativo"},
+        {"item": "Trabajo en equipo"},
+        {"item": "Comunicación Efectiva"}
+    ],
+    "areas":[
+        {"item": "Psicología Educativa y Orientación."},
+        {"item": "Diseño y Gestión de Proyectos Socio Educativos."},
+        {"item": "Experta en Investigación de modelos educativos con TIC."}
+    ],
+    "experiencia":[
+        {"item": "Psicóloga Educativa de la Unidad Educativa Particular \"Marvin Minsky\" de Educación Online"},
+        {"item": "Docente y Coordinadora del Departamento de investigación y Psicóloga. Unidad Educativa Municipal Experimental Sucre. Quito - Ecuador"},
+        {"item": "Docente de la Unidad Educativa Municipal \"San Francisco de Quito\". Quito - Ecuador"},
+        {"item": "Docente de del colegio Particular Mixto \"Mena del Hierro\". Quito - Ecuador"}
+    ]
+}

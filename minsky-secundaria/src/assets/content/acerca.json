@@ -1,0 +1,39 @@
+{
+    "titulo" : "¡Bienvenidos a la familia Marvin Minsky!",
+    "componentes": [
+        {
+            "tipo": "imagen",
+            "estilo": "left",
+            "url":"assets/images/rector.JPG"
+        },
+        {
+            "tipo":"parrafo",
+            "contenido": "Nuestra comunidad educativa, es una familia comprometida con la formación integral de estudiantes desde Octavo Año de Educación General Básica hasta Tercer Año de Bachillerato General en Ciencias, bajo un modelo de educación 100% en línea, de calidad, integral y flexible."
+        },
+        {
+            "tipo":"parrafo",
+            "contenido":"En la Unidad Educativa Marvin Minsky, ofrecemos una educación de calidad integral que responde a las necesidades del presente y del futuro. Nuestra propuesta pedagógica combina el desarrollo académico con la práctica de valores, promueve el pensamiento crítico, la autonomía y el crecimiento personal de nuestros estudiantes mediante el desarrollo de competencias científicas, culturales, deportivas y sociales para la vida."
+        },
+        {
+            "tipo":"parrafo",
+            "contenido":"Aplicamos metodologías activas e innovadoras, interactivas, lúdicas y reflexivas, centradas en el estudiante, que generan ambientes de aprendizaje eficaces, gratificantes y colaborativos mediante el uso de plataformas virtuales como Moodle, Teams y Zoom."
+        },
+        {
+            "tipo":"parrafo",
+            "contenido":"Nuestra misión es formar estudiantes capaces de enfrentar con éxito los desafíos del mundo actual, mediante el desarrollo de competencias que les permitan resolver problemas reales y alcanzar su crecimiento personal y profesional. Apostamos por una educación transformadora, <strong>formando estudiantes emprendedores con visión, liderazgo e innovación”</strong> basada en el uso <strong>estratégico de las TIC e inteligencia artificial.</strong>"
+        },
+        {
+            "tipo":"parrafo",
+            "contenido":"En <strong>Marvin Minsky,</strong> nuestro compromiso es brindar experiencias de aprendizaje significativas, interactivas y colaborativas, orientadas al desarrollo personal, académico y profesional de nuestros estudiantes. Por eso, día a día construimos un modelo de educación en línea de calidad internacional, con un currículo cuidadosamente diseñado y un equipo docente altamente calificado, con amplia experiencia en educación virtual y metodologías activas."
+        },
+        {
+            "tipo":"parrafo",
+            "contenido":"<strong>¡Te invitamos a ser parte de esta gran familia educativa y construir juntos un futuro mejor!</strong>"
+        }
+        ,
+        {
+            "tipo":"parrafo",
+            "contenido":"<strong>Rector - Fundador <br />Unidad Educativa Particular “Marvin Minsky” </strong>"
+        }
+    ]
+}

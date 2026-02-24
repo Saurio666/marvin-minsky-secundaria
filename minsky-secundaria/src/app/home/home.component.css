@@ -1,0 +1,38 @@
+/*******************************/
+/********** Fact CSS ***********/
+/*******************************/
+.fact {
+    position: relative;
+    width: 100%;
+    padding: 45px 0 15px 0;
+}
+
+.fact .fact-item {
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 30px 0 25px 0;
+    text-align: center;
+    background: #ffffff;
+    border: 1px solid transparent;
+    box-shadow: 0 0 30px rgba(0, 0, 0, .1);
+    transition: .3s;
+}
+
+.fact .fact-item:hover {
+    border-color: rgba(0, 0, 0, .1);
+    box-shadow: none;
+	border: 1px solid #0796fe;
+}
+
+.fact .fact-item img {
+    max-height: 50px;
+    margin-bottom: 15px;
+}
+
+.fact .fact-item h2 {
+    font-size: 22px;
+    font-weight: 400;    
+    letter-spacing: 1px;
+    color: #2745C2;
+}

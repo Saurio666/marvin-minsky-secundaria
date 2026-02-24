@@ -1,0 +1,138 @@
+{
+    "titulo": "Porqué estudiar en Marvin Minsky?",
+    "componentes": [
+        {
+            "tipo": "subtitulo2",
+            "contenido": "Sabías que la la Educación en línea es la educación del futuro"
+        },
+        {
+            "tipo": "parrafo",
+            "contenido": "<strong>La Unidad Educativa Particular “Marvin Minsky”</strong> es pionera en ofrecer una formación 100% en línea, alineada con el avance tecnológico, plataformas de Inteligencia Artificial y la nueva forma de interacción social. ¡Sé parte nuestra visión de una educación segura, innovadora y centrada en el estudiante!"
+        },
+        {
+            "tipo":"tabla",
+            "estilo":"alt",
+            "contenido": {
+                "cabecera": [
+                    {
+                        "item": "ESCUELAS TRADICIONALES"
+                    },
+                    {
+                        "item":"UNIDAD EDUCATIVA MARVIN MINSKY ON-LINE"
+                    }
+                ],
+                "filas": [
+                    {
+                        "celdas": [
+                            {
+                                "item": "Uso obligatorio de uniformes y mochilas pesadas con útiles escolares todos los días."
+                            }, 
+                            {
+                                "item": "0% uso de uniformes y mochilas pesadas. Todo el material está disponible digitalmente."
+                            }
+                        ]
+                    },
+                    {
+                        "celdas":[
+                            {
+                                "item": "Alta incidencia de bullying físico, verbal, psicológico o social."
+                            },
+                            {
+                                "item": "0% intimidación o acoso escolar. Estudias en un entorno seguro desde casa."
+                            }
+                        ]
+                    },
+                    {
+                        "celdas":[
+                            {
+                                "item": "Frecuentes robos en aulas, patios, cafeterías o en el trayecto hacia la institución."
+                            },
+                            {
+                                "item": "0% robos o asaltos. Tu seguridad es total al estudiar desde la comodidad y seguridad de tu hogar."
+                            }
+                        ]
+                    }
+                    ,
+                    {
+                        "celdas":[
+                            {
+                                "item": "Exposición a malas influencias: drogas, alcohol, pandillas y violencia."
+                            },
+                            {
+                                "item": "0% exposición a factores de riesgo. Ambiente seguro, familiar y motivador."
+                            }
+                        ]
+                    },
+                    {
+                        "celdas":[
+                            {
+                                "item": "Clases monótonas, poco participativas y sin interactividad."
+                            },
+                            {
+                                "item": "Clases atractivas, dinámicas, interactivas, participativas y colaborativas."
+                            }
+                        ]
+                    },
+                    {
+                        "celdas":[
+                            {
+                                "item": "Poca consideración a estudiantes y padres como clientes."
+                            },
+                            {
+                                "item": "Nuestros estudiantes y sus familias son nuestra prioridad y razón de ser."
+                            }
+                        ]
+                    },
+                    {
+                        "celdas":[
+                            {
+                                "item": "Programas de inglés con baja calidad y escasa práctica real."
+                            },
+                            {
+                                "item": "Enseñanza de inglés en línea con altos estándares internacionales."
+                            }
+                        ]
+                    },
+                    {
+                        "celdas":[
+                            {
+                                "item": "Uso excesivo de papel, libros y cuadernos, afectando al medio ambiente."
+                            },
+                            {
+                                "item": "Educación digital que promueve el cuidado ambiental y el uso responsable de recursos."
+                            }
+                        ]
+                    },
+                    {
+                        "celdas":[
+                            {
+                                "item": "Solo 1 o 2 reuniones anuales entre padres y maestros."
+                            },
+                            {
+                                "item": "Reuniones mensuales virtuales con informes académicos claros y oportunos."
+                            }
+                        ]
+                    },
+                    {
+                        "celdas":[
+                            {
+                                "item": "Comunicación limitada con los docentes o la institución."
+                            },
+                            {
+                                "item": "Resolvemos tus dudas el mismo día por correo electrónico o WhatsApp."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "tipo": "subtitulo3",
+            "contenido": "Además"
+        },
+        {
+            "tipo": "parrafo",
+            "contenido": "El 50% de la matrícula se invierte en innovación educativa: desarrollo de software, plataformas tecnológicas, y mejora continua de la calidad académica. Somos la primera institución 100% online del país comprometida con una educación de vanguardia."
+        }
+    ]
+}

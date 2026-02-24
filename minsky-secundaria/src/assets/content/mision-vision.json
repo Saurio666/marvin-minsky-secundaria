@@ -1,0 +1,17 @@
+{
+    "titulo": "Misión",
+    "componentes": [
+        {
+            "tipo": "parrafo",
+            "contenido": "Somos una Unidad Educativa Particular en línea con proyección internacional, comprometida con la formación integral de estudiantes desde Octavo de Básica hasta Tercer Año de Bachillerato. A través de un modelo educativo integral, personalizado y mediado por la tecnología.  Promovemos el desarrollo de competencias para el siglo XXI, <strong>formando estudiantes emprendedores con visión, liderazgo e innovación.</strong>"
+        },
+        {
+            "tipo": "titulo",
+            "contenido":"Visión"
+        },
+        {
+            "tipo": "parrafo",
+            "contenido":"Ser una Unidad Educativa completamente en línea, líder en el ámbito nacional e internacional, reconocida por su excelencia académica, innovación pedagógica, desarrollo de pensamiento crítico y uso efectivo de tecnologías digitales. Aspiramos a transformar la educación y la sociedad, <strong>formando estudiantes emprendedores con visión, liderazgo e innovación</strong>, capaces de enfrentar los desafíos del siglo XXI con responsabilidad y compromiso social."
+        }
+    ]
+}

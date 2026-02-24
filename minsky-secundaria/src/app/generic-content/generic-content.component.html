@@ -1,0 +1,98 @@
+<div id="main">
+    <div class="wrapper">
+        <div class="inner" style="padding-left: 20px; padding-right: 20px;">
+            <header class="major">
+                <h1 style="text-shadow: 2px 2px 4px #99999c">{{this.contentData?.titulo}}</h1>
+            </header>
+
+            @for (elemento of this.contentData?.componentes; track elemento) {
+
+                @if(elemento.tipo === 'parrafo') {
+                    <div class="parrafo">            
+                        <div [outerHTML]="elemento.contenido"></div> <br /><br />
+                    </div>
+                }
+
+                @if(elemento.tipo === 'imagen') {
+                    <span class="image {{elemento.estilo}}">
+                        <img src="{{elemento.url}}" style="{{elemento?.estiloExtra}}" />
+                    </span>
+                }
+
+                @if(elemento.tipo === 'titulo') {
+                    <header class="major">
+                        <h1><div [outerHTML]="elemento.contenido"></div></h1>
+                    </header>
+                }
+
+                @if(elemento.tipo === 'subtitulo2') {
+                    <h2 class="subtitulo"><div [outerHTML]="elemento.contenido"></div></h2>                    
+                } 
+                @if(elemento.tipo === 'subtitulo3') {
+                    <h3 class="subtitulo"><div [outerHTML]="elemento.contenido"></div></h3>                    
+                }
+                @if(elemento.tipo === 'subtitulo4') {
+                    <h4 class="subtitulo"><div [outerHTML]="elemento.contenido"></div></h4>
+                } 
+
+                @if(elemento.tipo === 'tabla') {
+                    <div class="table-wrapper">
+                        <table class="{{elemento.estilo}}">
+                            <thead>
+                                <tr>
+                                    @for (cabecera of elemento.contenido.cabecera; track cabecera) {
+                                        <th><div [outerHTML]="cabecera.item"></div></th>   
+                                    }
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @for (fila of elemento.contenido.filas; track fila) {
+                                    <tr>
+                                        @for (celda of fila.celdas; track celda) {
+                                            <td><div [outerHTML]="celda.item"></div></td>
+                                        }
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+
+                @if(elemento.tipo === 'perfiles') {
+                    <div class="profiles">
+                        @for (perfil of elemento.contenido; track perfil) {
+                            <div class="profile" style="text-align: center;">
+                                <div class="image">
+                                    @if(perfil.imagen) {
+                                        <img src="{{perfil.imagen}}" alt style="max-height: 150px;">
+                                    }
+                                    @else {
+                                        <img src="assets/images/avatardefault_92824.png" alt style="max-height: 150px;">
+                                    }
+                                </div>
+                                <div class="content" >
+                                    <h3>{{perfil.nombre}}</h3>
+                                    <p style="text-align: center;">{{perfil.descripcion}}</p>
+                                    <div><a href="{{perfil.url}}" class="button small" style="cursor: pointer;">Perfil</a></div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+
+                @if(elemento.tipo === 'lista') {
+                    <h4>{{elemento.subparrafo}}</h4>
+
+
+                    <ul>
+                        @for (itemLista of elemento.contenido; track itemLista) {
+                            <li><div [outerHTML]="itemLista.item"></div></li>
+                        }
+                    </ul>
+                }
+
+            }
+
+        </div>
+    </div>
+</div>

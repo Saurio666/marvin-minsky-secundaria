@@ -1,0 +1,33 @@
+{
+    "nombre": "Dr. Jorge Revelo Rosero, PhD.",
+    "imagen": "assets/images/rector.JPG",
+    "cargo": "RECTOR",
+    "profesional": [
+        { "item": "Doctor (PhD.) en FORMACIÓN DEL PROFESORADO Y TIC EN EDUCACIÓN. Universidad de Extremadura. Cáceres – España. Tesis Doctoral: Modelo de integración de la competencia digital docente en la enseñanza de la matemática en la Universidad Tecnológica Equinoccial."},
+        { "item": "Magíster en Contabilidad y Auditoría – CPA. Universidad UTE. Quito - Ecuador"},
+        { "item": "Licenciado en Ciencias de la Educación. Especialización Matemáticas y Física - Universidad Central del Ecuador. Quito - Ecuador"}
+    ],
+    "competencias":[
+        {"item": "Liderazgo, experticia, pertinencia, eficiencia y calidez en educación"},
+        {"item": "Trabajo colaborativo"},
+        {"item": "Trabajo en equipo"},
+        {"item": "Comunicación Efectiva"}
+    ],
+    "areas":[
+        {"item": "Matemáticas y afines, aplicaciones matemáticas para ingeniería y física"},
+        {"item": "Contabilidad y Auditoría y afines"},
+        {"item": "Experto en Investigación de modelos educativos con TIC."},
+        {"item": "Autor de varios libros y capítulos de libros y artículos publicados en revistas de alto impacto (Emerging Source Citation Index, Latindex, Redalcy, Scielo, Scopus)"}
+    ],
+    "experiencia":[
+        {"item": "Rector Unidad Educativa Particular Marvin Minsky de Educación Online"},
+        {"item": "Docente - Investigador de la Universidad UTE. Facultad de Ciencias Administrativas - Posgrados. áreas de Matemáticas y Afines, Contabilidad y Auditoría y afines, Investigación de modelos educativos con TIC."},
+        {"item": "Docente - Investigador de la Universidad Central del Ecuador. Facultad de Filosofía, Letras y Ciencias de la Educación. Escuela de Ciencias Experimentales Matemática y Física. áreas de Matemáticas, Física y Afines."},
+        {"item": "Facilitador Académico Externo del CES, para la valoración de proyectos de MAESTRÍA"},
+        {"item": "Docente de la Maestría en Administración de Empresas, cátedra de Presupuestación y Control – Universidad Politécnica Salesiana: Unidad de Posgrados (2010)."},
+        {"item": "Jefe del Centro Nacional de Documentos Científicos Ecuatorianos - CCE. De 1986 a 2012"},
+        {"item": "Rector Unidad Educativa Helmut Wahlmuller"},
+        {"item": "Vicerrector Colegio Internacional Luigi Galvani"},
+        {"item": "Experto, Asesor y facilitador de cursos y seminarios en educación superior, proyectos de investigación, educativos y culturales."}
+    ]
+}

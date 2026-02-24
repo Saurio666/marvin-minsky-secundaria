@@ -1,0 +1,67 @@
+{
+    "titulo": "Trabaje con nosotros",
+    "componentes": [
+        {
+            "tipo": "parrafo",
+            "contenido": "Para trabajar en la Unidad Educativa Particular <strong>Marvin Minsky</strong> de Educación Online, le pedimos que cumpla a más de los requisitos exigidos por el ministerio de educación, y los que exige nuestra institución. Por tanto, haga una autoevaluación de éste listado importante. Una vez que haya leído los todos los requisitos y si cree que éste es el trabajo perfecto para usted, por favor haga llegar su Hoja de Vida con los respectivos respaldos a: <a href=\"mailto:info.uepmm@gmail.com\">info.uepmm&commat;gmail.com</a>. Si su formación profesional y experiencia coinciden con nuestras necesidades, será contactado por un representante de recursos humanos."
+        },
+        {
+            "tipo": "parrafo",
+            "contenido": "La Unidad Educativa Particular <strong>Marvin Minsky</strong> de Educación Online es una institución de alta calidad educativa que selecciona y contrata cuidadosamente a todos sus candidatos, buscando siempre profesionales que den el 100% en su trabajo, para que pueda dar lo mejor de sí lo al momento de realizar sus labores."
+        },
+        {
+            "tipo": "parrafo",
+            "contenido": "A continuación damos una lista de requisitos necesarios para desempeñar éste trabajo."
+        },
+        {
+            "tipo": "subtitulo3",
+            "contenido": "1. Requisitos para selección de docentes"
+        },        
+        {
+            "tipo": "lista",
+            "subparrafo":"El aspirante deberá presentar original y copia de los siguientes documentos:",
+            "estilo": "bullet",
+            "contenido": [
+                {"item":"Impresión de publicación"},
+                {"item":"Hoja de Vida (incluir teléfono, e-mail, entre otros)."},
+                {"item":"Copia de Cédula y papeleta de votación."},
+                {"item":"Título Profesional avalado por el SENESCYT."},
+                {"item":"Historia Laboral"},
+                {"item":"Certificado de no tener Antecedentes Penales"},
+                {"item":"Certificado de no tener impedimento del Ministerio de Trabajo"},
+                {"item":"Certificado de no tener antecedentes judiciales"},
+                {"item":"Documentos que comprueben la experiencia docente (Certificados laborales)."},
+                {"item":"Constancia de cursos de actualización profesional (seminarios, talleres, congresos, etc.) de hasta máximo 4 años atrás."},
+                {"item":"Declaración juramentada firmada ante un notario público a su elección de no estar vinculado en algún sumario administrativo relacionado a hechos de abuso, acoso, violación o cualquier otro hecho de connotación sexual, así como no tener ningún proceso judicial planteado en su contra por los mismos hechos, según acuerdo ministerial muneduc-mineduc-2017-00098-A."}
+            ]
+        },
+        {
+            "tipo": "subtitulo3",
+            "contenido": "2. Requisitos de la Unidad Educativa Particular \"Marvin Minsky\" de Educación Online"
+        }, 
+        {
+            "tipo": "lista",
+            "subparrafo":"El aspirante a más de los requisitos anteriores:",
+            "estilo": "bullet",
+            "contenido": [
+                {"item":"DEBE tener acceso a Internet de alta velocidad estable y confiable (mínimo de 10 megabytes por segundo)."},
+                {"item":"DEBE tener acceso a una computadora de escritorio o portátil."},
+                {"item":"DEBE tener disponibilidad para laborar durante 8 horas al día (en el horario de 07H00 a 16H00) de lunes a viernes."},
+                {"item":"DEBE ser flexible, creativo, dinámico, reflexivo y saber hacer el buen uso de su tiempo."},
+                {"item":"DEBE poseer competencias, personales, didácticas y digitales."},
+                {"item":"DEBE SER ALTAMENTE bilingüe (hablarlo y escribirlo perfectamente: inglés – español) en el caso de dictar las asignaturas en inglés."},
+                {"item":"DEBE poseer un título universitario en educación de acuerdo a las áreas y asignaturas en las que desarrollará sus clases virtuales."},
+                {"item":"DEBE ser puntual a la hora de iniciar sus clases en línea."},
+                {"item":"DEBE tener una experiencia como mínimo de tres años en educación media y conocimiento de plataformas educativas."},
+                {"item":"DEBE estar dispuesto a trabajar bajo presión."},
+                {"item":"DEBE trabajar de manera cooperativa y colaborativa como miembro de equipo con sus estudiantes, compañeros docentes y autoridades del plantel."},
+                {"item":"DEBE ser un facilitador y mediador del aprendizaje activo y colaborativo en línea mediante la utilización de metodologías y estrategias didácticas interactivas, lúdicas, reflexivas y colaborativas."},
+                {"item":"DEBE ser un líder carismático, responsable e íntegro en desarrollo de sus clases en línea."},
+                {"item":"DEBE saber escuchar a sus estudiantes y adaptarse a sus necesidades de aprendizaje."},
+                {"item":"DEBE tener la capacidad de comunicarse claramente con estudiantes, padres de familia y/o representantes, compañeros docentes y autoridades de la Institución."},
+                {"item":"DEBE conocer y cooperar al cumplimiento de la misión, visión, valores institucionales, proyectos y los planes de estudios de acuerdo a las edades de los estudiantes."},
+                {"item":"DEBE tener una personalidad amable, alegre, asertiva, cálida, positiva, sensible y firme, capaz de controlar sus emociones y saber resolver conflictos y motivar el éxito en sus estudiantes."}
+            ]
+        }        
+    ]
+}

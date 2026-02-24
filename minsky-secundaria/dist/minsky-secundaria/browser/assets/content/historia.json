@@ -1,0 +1,27 @@
+{
+    "titulo": "Nuestra Historia",
+    "componentes": [
+        {
+            "tipo": "imagen",
+            "estilo": "left",
+            "url": "assets/images/logoInstituto.png",
+            "estiloExtra": "width: 450px;"
+        },
+        {
+            "tipo": "parrafo",
+            "contenido": "La <strong>Unidad Educativa Particular “Marvin Minsky” de Educación en Línea</strong> nace como una propuesta educativa innovadora y visionaria, diseñada para responder a los desafíos del siglo XXI. Fue fundada en el año <strong>2021</strong>, luego de un profundo análisis del panorama educativo y con el respaldo de más de <strong>30 años de experiencia</strong> de su mentor."
+        },
+        {
+            "tipo": "parrafo",
+            "contenido": "En <strong>Marvin Minsky</strong> apostamos por una educación 100% en línea, en tiempo real, que integra <strong>metodologías activas, entornos virtuales eficientes y recursos digitales interactivos,</strong> que garantizan una experiencia de aprendizaje autónomo, colaborativo y significativo. Además, cuenta con un equipo docente altamente calificado y un grupo de asesores expertos en educación, tecnología y formación docente, comprometidos con la mejora continua y la excelencia."
+        },
+        {
+            "tipo": "parrafo",
+            "contenido": "Hoy, seguimos creciendo como una comunidad educativa que trasciende fronteras, con estudiantes de todo el país y la visión de proyectarnos a nivel internacional. Es una institución pensada para familias que buscan una formación innovadora, segura y adaptada a las exigencias del mundo actual."
+        },
+        {
+            "tipo": "parrafo",
+            "contenido": "Nuestro compromiso es <strong>formar estudiantes emprendedores con visión, liderazgo e innovación,</strong> capaces de enfrentar los desafíos del mundo actual con responsabilidad, creatividad y pensamiento crítico."
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "titulo": "Educación General Básica Superior",
+    "componentes": [
+        {
+            "tipo": "subtitulo3",
+            "contenido": "Régimen Sierra y Régimen Costa"
+        },
+        {
+            "tipo": "subtitulo2",
+            "contenido": "Octavo Año EGB"
+        },
+        {
+            "tipo": "lista",
+            "estilo": "bullet",
+            "contenido": [
+                {
+                    "item": "Lengua y Literatura"
+                },
+                {
+                    "item": "Matemática"
+                },
+                {
+                    "item": "Estudios Sociales"
+                },
+                {
+                    "item": "Ciencias Naturales"
+                },
+                {
+                    "item": "Educación Cultural y Artística"
+                },
+                {
+                    "item": "Educación Física"
+                },
+                {
+                    "item": "Algoritmos y Programación"
+                },
+                {
+                    "item": "Inglés"
+                },
+                {
+                    "item": "Cívica y Acompañamiento Integral en el Aula"
+                }
+            ]
+        },
+        {
+            "tipo": "subtitulo2",
+            "contenido": "Noveno Año EGB"
+        },
+        {
+            "tipo": "lista",
+            "estilo": "bullet",
+            "contenido": [
+                {
+                    "item": "Lengua y Literatura"
+                },
+                {
+                    "item": "Matemática"
+                },
+                {
+                    "item": "Estudios Sociales"
+                },
+                {
+                    "item": "Ciencias Naturales"
+                },
+                {
+                    "item": "Educación Cultural y Artística"
+                },
+                {
+                    "item": "Educación Física"
+                },
+                {
+                    "item": "Algoritmos y Programación"
+                },
+                {
+                    "item": "Inglés"
+                },
+                {
+                    "item": "Cívica y Acompañamiento Integral en el Aula"
+                }
+            ]
+        },
+        {
+            "tipo": "subtitulo2",
+            "contenido": "Décimo Año EGB"
+        },
+        {
+            "tipo": "lista",
+            "estilo": "bullet",
+            "contenido": [
+                {
+                    "item": "Lengua y Literatura"
+                },
+                {
+                    "item": "Matemática"
+                },
+                {
+                    "item": "Estudios Sociales"
+                },
+                {
+                    "item": "Ciencias Naturales"
+                },
+                {
+                    "item": "Educación Cultural y Artística"
+                },
+                {
+                    "item": "Educación Física"
+                },
+                {
+                    "item": "Algoritmos y Programación"
+                },
+                {
+                    "item": "Inglés"
+                },
+                {
+                    "item": "Cívica y Acompañamiento Integral en el Aula"
+                }
+            ]
+        }
+    ]
+}
