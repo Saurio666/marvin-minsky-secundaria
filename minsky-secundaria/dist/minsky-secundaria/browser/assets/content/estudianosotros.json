@@ -7,7 +7,7 @@
         },
         {
             "tipo": "parrafo",
-            "contenido": "<strong>La Unidad Educativa Particular “Marvin Minsky”</strong> es pionera en ofrecer una formación 100% en línea, alineada con el avance tecnológico, plataformas de Inteligencia Artificial y la nueva forma de interacción social. ¡Sé parte nuestra visión de una educación segura, innovadora y centrada en el estudiante!"
+            "contenido": "<strong>La Unidad Educativa Particular “Marvin Minsky”</strong> es pionera en ofrecer una formación 100% en línea, alineada con el avance tecnológico, plataformas de Inteligencia Artificial y la nueva forma de interacción social. ¡Sé parte de nuestra visión de una educación segura, innovadora y centrada en el estudiante!"
         },
         {
             "tipo":"tabla",
@@ -25,30 +25,30 @@
                     {
                         "celdas": [
                             {
-                                "item": "Uso obligatorio de uniformes y mochilas pesadas con útiles escolares todos los días."
+                                "item": "<img src=\"assets/images/about-us/1.1.png\" width=\"48px\" /> Uso obligatorio de uniformes y mochilas pesadas con útiles escolares todos los días."
                             }, 
                             {
-                                "item": "0% uso de uniformes y mochilas pesadas. Todo el material está disponible digitalmente."
+                                "item": "<img src=\"assets/images/about-us/2.1.png\" width=\"48px\" /> 0% uso de uniformes y mochilas pesadas. Todo el material está disponible digitalmente."
                             }
                         ]
                     },
                     {
                         "celdas":[
                             {
-                                "item": "Alta incidencia de bullying físico, verbal, psicológico o social."
+                                "item": "<img src=\"assets/images/about-us/1.2.png\" width=\"48px\" /> Alta incidencia de bullying físico, verbal, psicológico o social."
                             },
                             {
-                                "item": "0% intimidación o acoso escolar. Estudias en un entorno seguro desde casa."
+                                "item": "<img src=\"assets/images/about-us/2.2.png\" width=\"48px\" /> 0% intimidación o acoso escolar. Estudias en un entorno seguro desde casa."
                             }
                         ]
                     },
                     {
                         "celdas":[
                             {
-                                "item": "Frecuentes robos en aulas, patios, cafeterías o en el trayecto hacia la institución."
+                                "item": "<img src=\"assets/images/about-us/1.3.png\" width=\"48px\" /> Frecuentes robos en aulas, patios, cafeterías o en el trayecto hacia la institución."
                             },
                             {
-                                "item": "0% robos o asaltos. Tu seguridad es total al estudiar desde la comodidad y seguridad de tu hogar."
+                                "item": "<img src=\"assets/images/about-us/2.3.png\" width=\"48px\" /> 0% robos o asaltos. Tu seguridad es total al estudiar desde la comodidad y seguridad de tu hogar."
                             }
                         ]
                     }
@@ -56,70 +56,70 @@
                     {
                         "celdas":[
                             {
-                                "item": "Exposición a malas influencias: drogas, alcohol, pandillas y violencia."
+                                "item": "<img src=\"assets/images/about-us/1.4.png\" width=\"48px\" /> Exposición a malas influencias: drogas, alcohol, pandillas y violencia."
                             },
                             {
-                                "item": "0% exposición a factores de riesgo. Ambiente seguro, familiar y motivador."
+                                "item": "<img src=\"assets/images/about-us/2.4.png\" width=\"48px\" /> 0% exposición a factores de riesgo. Ambiente seguro, familiar y motivador."
                             }
                         ]
                     },
                     {
                         "celdas":[
                             {
-                                "item": "Clases monótonas, poco participativas y sin interactividad."
+                                "item": "<img src=\"assets/images/about-us/1.5.png\" width=\"48px\" /> Clases monótonas, poco participativas y sin interactividad."
                             },
                             {
-                                "item": "Clases atractivas, dinámicas, interactivas, participativas y colaborativas."
+                                "item": "<img src=\"assets/images/about-us/2.5.png\" width=\"48px\" /> Clases atractivas, dinámicas, interactivas, participativas y colaborativas."
                             }
                         ]
                     },
                     {
                         "celdas":[
                             {
-                                "item": "Poca consideración a estudiantes y padres como clientes."
+                                "item": "<img src=\"assets/images/about-us/1.6.png\" width=\"48px\" /> Poca consideración a estudiantes y padres como clientes."
                             },
                             {
-                                "item": "Nuestros estudiantes y sus familias son nuestra prioridad y razón de ser."
+                                "item": "<img src=\"assets/images/about-us/2.6.png\" width=\"48px\" /> Nuestros estudiantes y sus familias son nuestra prioridad y razón de ser."
                             }
                         ]
                     },
                     {
                         "celdas":[
                             {
-                                "item": "Programas de inglés con baja calidad y escasa práctica real."
+                                "item": "<img src=\"assets/images/about-us/1.7.png\" width=\"48px\" /> Programas de inglés con baja calidad y escasa práctica real."
                             },
                             {
-                                "item": "Enseñanza de inglés en línea con altos estándares internacionales."
+                                "item": "<img src=\"assets/images/about-us/2.7.png\" width=\"48px\" /> Enseñanza de inglés en línea con altos estándares internacionales."
                             }
                         ]
                     },
                     {
                         "celdas":[
                             {
-                                "item": "Uso excesivo de papel, libros y cuadernos, afectando al medio ambiente."
+                                "item": "<img src=\"assets/images/about-us/1.8.png\" width=\"48px\" /> Uso excesivo de papel, libros y cuadernos, afectando al medio ambiente."
                             },
                             {
-                                "item": "Educación digital que promueve el cuidado ambiental y el uso responsable de recursos."
+                                "item": "<img src=\"assets/images/about-us/2.8.png\" width=\"48px\" /> Educación digital que promueve el cuidado ambiental y el uso responsable de recursos."
                             }
                         ]
                     },
                     {
                         "celdas":[
                             {
-                                "item": "Solo 1 o 2 reuniones anuales entre padres y maestros."
+                                "item": "<img src=\"assets/images/about-us/1.9.png\" width=\"48px\" /> Solo 1 o 2 reuniones anuales entre padres y maestros."
                             },
                             {
-                                "item": "Reuniones mensuales virtuales con informes académicos claros y oportunos."
+                                "item": "<img src=\"assets/images/about-us/2.9.png\" width=\"48px\" /> Reuniones mensuales virtuales con informes académicos claros y oportunos."
                             }
                         ]
                     },
                     {
                         "celdas":[
                             {
-                                "item": "Comunicación limitada con los docentes o la institución."
+                                "item": "<img src=\"assets/images/about-us/1.10.jpg\" width=\"48px\" /> Comunicación limitada con los docentes o la institución."
                             },
                             {
-                                "item": "Resolvemos tus dudas el mismo día por correo electrónico o WhatsApp."
+                                "item": "<img src=\"assets/images/about-us/2.10.jpg\" width=\"48px\" /> Resolvemos tus dudas el mismo día por correo electrónico o WhatsApp."
                             }
                         ]
                     }
