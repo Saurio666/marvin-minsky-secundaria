@@ -1,0 +1,33 @@
+{
+    "nombre": "Msc. Víctor Espinosa Navarro",
+    "imagen": "assets/images/profiles/venavarro.png",
+    "profesional": [
+        {"item": "Magister en la enseñanza del Idioma Inglés, Universidad Católica del Ecuador \"PUCE\". Quito - Ecuador"},
+        {"item": "Licenciado en Ciencias de la Educación, mención Educación Básica, Universidad Indoamérica. Quito - Ecuador"},
+        {"item": "Técnico Curricular realizado en la Facultad de CCEE-ESPE. Quito - Ecuador"},
+        {"item": "Auditor Interno en Seguridad, Normas OHSAS 18001, SGS del Ecuador."}
+    ],
+    "competencias":[
+        {"item": "Liderazgo y guía pedagógica."},
+        {"item": "Trabajo colaborativo y en equipo."},
+        {"item": "Comunicación efectiva y escucha activa."},
+        {"item": "Pertinencia e innovación."},
+        {"item": "Calidez y ética educativa."}
+	],
+    "areas":[
+        {"item": "Educación Básica Elemental, Media y Superior."},
+        {"item": "Idioma Inglés y afines."},
+        {"item": "Modelos educativos con TIC."}
+	],
+    "experiencia":[
+        {"item": "Docente - Fundador de Inglés en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
+        {"item": "Docente de Inglés en la \"Universidad de las Fuerzas Armadas\", ESPE. Quito - Ecuador"},
+        {"item": "Docente de Inglés en el Colegio Militar Coronel Lauro Guerrero No. 5. Quito - Ecuador"},
+        {"item": "Docente de Inglés en el Colegio Militar Abdón Calderón No. 10. Quito - Ecuador"},
+        {"item": "Docente de Inglés en la Unidad Educativa Cardenal de la Torre. Quito - Ecuador"},
+        {"item": "Docente de Inglés Instituto Nacional Mejía. Quito - Ecuador"},
+        {"item": "Docente de Inglés en la Unidad Educativa Bilingüe Sagrados Corazones de Rumipamba. Quito - Ecuador"},
+        {"item": "Docente de Inglés en el Colegio Municipal Fernández Madrid. Quito - Ecuador"},
+        {"item": "Docente de Inglés en la Unidad Educativa Francisca de las Llagas. Quito - Ecuador"}
+	]
+}

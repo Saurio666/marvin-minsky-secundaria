@@ -1,0 +1,33 @@
+{
+    "nombre": "Ing. Jorge Luis Revelo Quiroz",
+    "imagen": "assets/images/profiles/jlrevelo.png",
+    "profesional": [
+        {"item": "Ingeniero en Sistemas Informáticos y de Computación. Escuela Politécnica Nacional. Quito - Ecuador"}
+    ],
+    "competencias":[
+		{"item": "Liderazgo y rigor académico."},
+		{"item": "Trabajo colaborativo y enfoque interdisciplinario."},
+		{"item": "Comunicación efectiva y escucha activa."},
+		{"item": "Pensamiento crítico y resolución creativa de problemas."},
+		{"item": "Diseño centrado en el usuario."},
+		{"item": "Mejora continua y aprendizaje autónomo."},
+		{"item": "Ética profesional y compromiso con la calidad."}
+	],
+    "areas":[
+		{"item": "Sistemas Informáticos y de Computación."},
+		{"item": "Desarrollo de soluciones tecnológicas innovadoras y optimización de procesos."},
+		{"item": "Arquitectura de software y arquitectura hexagonal."},
+		{"item": "Computación en la nube y automatización de infraestructura (IaC)."},
+		{"item": "Desarrollo web moderno y aplicaciones escalables."},
+		{"item": "Automatización de procesos empresariales."},
+		{"item": "Enseñanza de programación, algoritmos y educación STEM."}
+	],
+    "experiencia":[
+		{"item": "Docente - Fundador del Área de Matemáticas, Algoritmos y Programación; y STEAM de Ciencias en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
+		{"item": "Desarrollador y colaborador en Imagen Sistemas, Escuela Politécnica Nacional."},
+		{"item": "Docente del Área de Matemáticas e Informática en la Unidad Educativa Helmut Wahlmuller."},
+		{"item": "Ingeniero de Desarrollo, COBISCORP."},
+		{"item": "Experto Nacional de tecnología, SRI."},
+		{"item": "Senior Backend Developer, OSHYN INC."}
+	]
+}

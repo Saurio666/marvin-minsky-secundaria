@@ -1,0 +1,31 @@
+{
+    "nombre": "Msc. Edison Mauricio Viana Chulde",
+    "imagen": "",
+    "profesional": [
+		{"item": "Máster Universitario en Formación de Profesorado, especialidad Matemática y Física, Universidad Nacional de Educación a Distancia (UNED). España."},
+		{"item": "Licenciado en Ciencias de la Educación, mención Matemática y Física, Universidad Central del Ecuador."}
+    ],
+    "competencias":[
+		{"item": "Liderazgo y guía pedagógica."},
+		{"item": "Trabajo colaborativo y en equipo."},
+		{"item": "Comunicación efectiva y escucha activa."},
+		{"item": "Pertinencia e innovación."},
+		{"item": "Calidez y ética educativa."}
+	],
+    "areas":[
+		{"item": "Educación Básica Superior y Bachillerato."},
+		{"item": "Matemática, Física, Estadística, Geometría y afines."},
+		{"item": "Análisis curricular del Sistema Educativo Nacional (SNA)."},
+		{"item": "Manejo de Entornos Virtuales de Aprendizaje (EVA)."},
+		{"item": "Manejo de software educativo, ofimática y animación."},
+		{"item": "Autor de artículos científicos."}
+	],
+    "experiencia":[
+		{"item": "Docente de Matemática, Física, y Educación Cultural y Artística en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
+		{"item": "Analista de Desarrollo de Contenidos en el Instituto Nacional de Evaluación Educativa (Ineval). Quito - Ecuador."},
+		{"item": "Docente de Matemática y Física en la Unidad Educativa Particular \"Federico Engels\". Quito - Ecuador."},
+		{"item": "Docente de Matemática y Física en la Unidad Educativa Particular \"Academia Militar Miguel Iturralde 2\". Quito - Ecuador."},
+		{"item": "Docente de Matemática y Física en la Unidad Educativa Fiscal \"Mejía\", Distrito 4. Quito - Ecuador."},
+		{"item": "Docente de Matemática y Física en la Unidad Educativa Particular \"Academia Aeronáutica Mayor Pedro Traversari\". Quito - Ecuador."}
+	]
+}

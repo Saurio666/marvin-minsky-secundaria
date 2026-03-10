@@ -1,0 +1,26 @@
+{
+    "nombre": "Msc. Nora Lissette Galarza Godoy",
+    "imagen": "assets/images/profiles/nlgalarza.png",
+    "profesional": [
+		{"item": "Magister en educación con mención en lingüística y literatura "},
+		{"item": "Licenciada en Ciencias de la Educación, Especialización Educación Básica. Universidad Central del Ecuador"}
+    ],
+    "competencias":[
+		{"item": "Liderazgo y guía pedagógica."},
+		{"item": "Trabajo colaborativo y en equipo."},
+		{"item": "Comunicación efectiva y escucha activa."},
+		{"item": "Pertinencia e innovación."},
+		{"item": "Calidez y ética educativa."}
+	],
+    "areas":[
+		{"item": "Educación Básica Elemental, Media y Superior."},
+		{"item": "Lengua y Literatura y afines."},
+		{"item": "Modelos educativos con TIC."},
+		{"item": "Autora de Artículos científicos."}
+	],
+    "experiencia":[
+		{"item": "Docente de Lengua y Literatura en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
+		{"item": "Docente de Lengua y Literatura. Unidad Educativa \"Gabriela Mistral\". Quito - Ecuador."},
+		{"item": "Instructora de Formación y Desarrollo en la Corporación Nacional de Telecomunicaciones CNT EP."}
+	]
+}

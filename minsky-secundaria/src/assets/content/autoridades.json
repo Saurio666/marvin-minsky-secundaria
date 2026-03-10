@@ -8,19 +8,19 @@
                     "nombre": "Dr. Jorge Revelo, PhD.",
                     "descripcion": "RECTOR",
                     "url": "perfil?id=jerevelo",
-                    "imagen": "assets/images/rector.JPG"
+                    "imagen": "assets/images/profiles/jerevelo.jpeg"
                 },
                 {
                     "nombre": "Msc. Clara Andrade",
                     "descripcion": "VICERRECTORA",
                     "url": "perfil?id=candrade",
-                    "imagen": "assets/images/profiles/msclaraandrade.JPG"
+                    "imagen": "assets/images/profiles/candrade.png"
                 },
                 {
                     "nombre": "Msc. Carmen Rubio",
                     "descripcion": "DECE",
                     "url": "perfil?id=crubio",
-                    "imagen": ""
+                    "imagen": "assets/images/profiles/crubio.png"
                 }
             ]
         }

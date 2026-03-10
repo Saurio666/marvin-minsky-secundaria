@@ -1,0 +1,31 @@
+{
+    "nombre": "Ing. Javier Steven Revelo Quiroz",
+    "imagen": "assets/images/profiles/jsrevelo.png",
+    "profesional": [
+		{"item": "Ingeniero de Software. Escuela Politécnica Nacional. Quito - Ecuador"},
+		{"item": "Formación en Ingeniería y Desarrollo de Software, con especialización práctica en arquitectura de software, computación en la nube e infraestructura como código."},
+		{"item": "Formación pedagógica aplicada a la enseñanza de STEM, algoritmos y programación en entornos virtuales."}
+    ],
+    "competencias":[
+		{"item": "Liderazgo y rigor académico."},
+		{"item": "Trabajo colaborativo y enfoque interdisciplinario."},
+		{"item": "Comunicación efectiva y escucha activa."},
+		{"item": "Pensamiento crítico y resolución creativa de problemas."},
+		{"item": "Diseño centrado en el usuario."},
+		{"item": "Mejora continua y aprendizaje autónomo."},
+		{"item": "Ética profesional y compromiso con la calidad."}
+	],
+    "areas":[
+		{"item": "Desarrollo de soluciones tecnológicas innovadoras y optimización de procesos."},
+		{"item": "Arquitectura de software y arquitectura hexagonal."},
+		{"item": "Computación en la nube y automatización de infraestructura (IaC)."},
+		{"item": "Desarrollo web moderno y aplicaciones escalables."},
+		{"item": "Automatización de procesos empresariales."},
+		{"item": "Enseñanza de programación, algoritmos y educación STEM."}
+	],
+    "experiencia":[
+		{"item": "Docente - Fundador del Área de Matemáticas, Algoritmos y Programación; y STEAM de Ciencias en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
+		{"item": "Ingeniero de Innovación - Xkale"},
+		{"item": "Pasante de Automatización de Procesos - Schlumberger del Ecuador"}
+	]
+}

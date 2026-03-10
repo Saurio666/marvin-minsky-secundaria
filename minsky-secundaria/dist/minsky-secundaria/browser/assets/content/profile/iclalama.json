@@ -1,0 +1,31 @@
+{
+    "nombre": "Msc. Isabel Cristina Lalama Pilla",
+    "imagen": "assets/images/profiles/iclalama.png",
+    "profesional": [
+		{"item": "Magíster en la Enseñanza de Lengua y Literatura de Universidad Andina Simón Bolívar. Quito Ecuador "},
+		{"item": "Licenciado en Ciencias de la Educación. Mención: Lengua y Literatura de la Universidad Técnica Particular de Loja UTPL. Loja Ecuador."}
+    ],
+    "competencias":[
+		{"item": "Trabajo colaborativo y en equipo."},
+		{"item": "Comunicación efectiva y escucha activa."},
+		{"item": "Pensamiento crítico."},
+		{"item": "Pertinencia e innovación."},
+		{"item": "Calidez y ética profesional."}
+	],
+    "areas":[
+		{"item": "Educación Básica Elemental, Media y Superior."},
+		{"item": "Lengua y Literatura y afines."},
+		{"item": "Modelos educativos con TIC."},
+		{"item": "Autora de Artículos científicos."}
+    ],
+    "experiencia":[
+		{"item": "Docente de Lengua y Literatura en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
+		{"item": "Docente de la Universidad Central del Ecuador en el área de Lenguaje y Comunicación de la Facultad de Filosofía Letras y Ciencias de la Educación - Modalidad Semipresencial - Educación Básica "},
+		{"item": "Docente de la Unidad Educativa Salamanca en el área de Lengua y Literatura de Bachillerato Intensivo y Técnico "},
+		{"item": "Docente de la Unidad Educativa 24 de Mayo en el área de Lengua y Literatura de Básica Superior "},
+		{"item": "Docente de la Unidad Educativa Cardenal de la Torre en el área de Lengua y Literatura de Básica Superior y Bachillerato "},
+		{"item": "Docente de la Unidad Educativa San Pedro Pascual en el área de en el área de Lengua y Literatura de Básica Superior "},
+		{"item": "Docente del Centro Educativo Luis de la Torre de Proporcional P2 hasta Formal 1 en el área de Lengua y Literatura "},
+		{"item": "Docente de la Unidad Educativa ALEMBERT en el área de Lengua y Literatura de Básica Media, Superior y Bachillerato."}
+	]
+}

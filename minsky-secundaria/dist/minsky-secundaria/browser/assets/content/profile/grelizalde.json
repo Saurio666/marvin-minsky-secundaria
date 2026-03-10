@@ -1,0 +1,23 @@
+{
+    "nombre": "Lic. Gilber Richar Elizalde Prado",
+    "imagen": "assets/images/profiles/grelizalde.jpeg",
+    "profesional": [
+        {"item": "Licenciada en Ciencias de la Educación, Especialización Ciencias Sociales. Universidad UTE. Quito - Ecuador"}
+    ],
+    "competencias":[
+        {"item": "Liderazgo, experticia, pertinencia, eficiencia y calidez en educación"},
+        {"item": "Trabajo colaborativo"},
+        {"item": "Trabajo en equipo"},
+        {"item": "Comunicación Efectiva "}
+	],
+    "areas":[
+        {"item": "Educación Media"},
+        {"item": "Ciencias Sociales y afines"},
+        {"item": "Modelos educativos con TIC."}
+	],
+    "experiencia":[
+        {"item": "Docente - Fundador del Área de Ciencias Sociales Unidad Educativa Particular Online \"Marvin Minsky\"."},
+        {"item": "Coordinador del Área de Ciencias Sociales Unidad Educativa Particular Online \"Marvin Minsky\"."},
+        {"item": "Docente de la Unidad Educativa Pichincha. Quito."}
+	]
+}

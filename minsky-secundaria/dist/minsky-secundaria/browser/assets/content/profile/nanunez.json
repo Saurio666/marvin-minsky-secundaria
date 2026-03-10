@@ -1,0 +1,22 @@
+{
+    "nombre": "Lic. Naomi Anahí Núñez Cedeño",
+    "imagen": "assets/images/profiles/nanunez.png",
+    "profesional": [
+        {"item": "Licenciada en Pedagogía de las Ciencias Experimentales Química y Biología. Universidad Centra del Ecuador. Quito - Ecuador"}
+    ],
+    "competencias":[
+        {"item": "Liderazgo y guía pedagógica."},
+        {"item": "Trabajo colaborativo y en equipo."},
+        {"item": "Comunicación efectiva y escucha activa."},
+        {"item": "Pertinencia e innovación."},
+        {"item": "Calidez y ética educativa. "}
+	],
+    "areas":[
+        {"item": "Educación Básica Elemental, Media y Superior."},
+        {"item": "Química y Biología "}
+	],
+    "experiencia":[
+        {"item": "Docente de Ciencias Naturales, Química y Biología en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
+        {"item": "Docente de Biología y Ciencias Naturales. Unidad Educativa “San Juan Diego”. Ibarra - Ecuador."}
+	]
+}

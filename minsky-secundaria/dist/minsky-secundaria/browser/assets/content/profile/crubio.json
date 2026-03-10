@@ -1,25 +1,28 @@
 {
     "nombre": "Msc. Carmen Rubio Rivera",
-    "imagen": "",
+    "imagen": "assets/images/profiles/crubio.png",
     "profesional": [
-        {"item": "Máster en Diseño y Gestión de Proyectos Socio Educativos. Universidad Central del Ecuador. Quito – Ecuador"},
-        {"item": "Licenciada en Ciencias de la Educación. Mención Psicología Educativa y Orientación. Universidad Central del Ecuador. Quito - Ecuador"}
+		{"item": "Máster en Diseño y Gestión de Proyectos Socio Educativos. Universidad Central del Ecuador. Quito - Ecuador."},
+		{"item": "Licenciada en Ciencias de la Educación. Mención Psicología Educativa y Orientación. Universidad Central del Ecuador. Quito - Ecuador."}
     ],
     "competencias":[
-        {"item": "Liderazgo, experticia, pertinencia, eficiencia y calidez en educación"},
-        {"item": "Trabajo colaborativo"},
-        {"item": "Trabajo en equipo"},
-        {"item": "Comunicación Efectiva"}
+		{"item": "Liderazgo y guía pedagógica."},
+		{"item": "Trabajo colaborativo y en equipo."},
+		{"item": "Comunicación efectiva y escucha activa."},
+		{"item": "Pertinencia e innovación."},
+		{"item": "Calidez y ética educativa."}
     ],
     "areas":[
-        {"item": "Psicología Educativa y Orientación."},
-        {"item": "Diseño y Gestión de Proyectos Socio Educativos."},
-        {"item": "Experta en Investigación de modelos educativos con TIC."}
+		{"item": "Psicología Educativa y Orientación."},
+		{"item": "Diseño y Gestión de Proyectos Socio Educativos."},
+		{"item": "Modelos educativos con TIC."},
+		{"item": "Autora de artículos publicados en revistas de alto impacto (Emerging Source Citation Index, Latindex, Redalcy, Scielo, Scopus)."}
     ],
     "experiencia":[
-        {"item": "Psicóloga Educativa de la Unidad Educativa Particular \"Marvin Minsky\" de Educación Online"},
-        {"item": "Docente y Coordinadora del Departamento de investigación y Psicóloga. Unidad Educativa Municipal Experimental Sucre. Quito - Ecuador"},
-        {"item": "Docente de la Unidad Educativa Municipal \"San Francisco de Quito\". Quito - Ecuador"},
-        {"item": "Docente de del colegio Particular Mixto \"Mena del Hierro\". Quito - Ecuador"}
+		{"item": "Psicóloga Educativa de la Unidad Educativa Particular \"Marvin Minsky\" de Educación Online"},
+		{"item": "Rectora de la Unidad Educativa Municipal Fernández Madrid."},
+		{"item": "Docente y Coordinadora del Departamento de investigación y Psicóloga. Unidad Educativa Municipal Experimental Sucre. Quito - Ecuador."},
+		{"item": "Docente de la Unidad Educativa Municipal \"San Francisco de Quito\". Quito - Ecuador."},
+		{"item": "Docente de del colegio Particular Mixto \"Mena del Hierro\". Quito - Ecuador."}
     ]
 }
