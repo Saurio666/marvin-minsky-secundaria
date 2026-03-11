@@ -1,6 +1,6 @@
 {
     "nombre": "Msc. Edison Mauricio Viana Chulde",
-    "imagen": "",
+    "imagen": "assets/images/profiles/emviana.png",
     "profesional": [
 		{"item": "Máster Universitario en Formación de Profesorado, especialidad Matemática y Física, Universidad Nacional de Educación a Distancia (UNED). España."},
 		{"item": "Licenciado en Ciencias de la Educación, mención Matemática y Física, Universidad Central del Ecuador."}
@@ -27,5 +27,12 @@
 		{"item": "Docente de Matemática y Física en la Unidad Educativa Particular \"Academia Militar Miguel Iturralde 2\". Quito - Ecuador."},
 		{"item": "Docente de Matemática y Física en la Unidad Educativa Fiscal \"Mejía\", Distrito 4. Quito - Ecuador."},
 		{"item": "Docente de Matemática y Física en la Unidad Educativa Particular \"Academia Aeronáutica Mayor Pedro Traversari\". Quito - Ecuador."}
-	]
+	],
+    "contactos": [
+        {"item": {"type": "mail", "value": "edisonviana76@gmail.com"}},
+        {"item": {"type": "phone", "value": "+593 987 353 808"}},
+        {"item": {"type": "linkedin", "value": "https://ec.linkedin.com/in/edison-viana-chulde"}},
+        {"item": {"type": "scholar", "value": "https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=edison+viana+chulde&oq="}},
+        {"item": {"type": "orcid", "value": "https://orcid.org/0009-0002-5860-968X"}}
+    ]
 }

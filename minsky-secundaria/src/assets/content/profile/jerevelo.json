@@ -36,5 +36,12 @@
         {"item": "Rector Unidad Educativa Helmut Wahlmuller."},
         {"item": "Vicerrector Colegio Internacional Luigi Galvani."},
         {"item": "Experto, Asesor y facilitador de cursos y seminarios en educación superior, proyectos de investigación, educativos y culturales."}
+    ],
+	"contactos": [
+        {"item": {"type": "mail", "value": "jorgerevelor@gmail.com"}},
+        {"item": {"type": "phone", "value": "+593 99 803 2853"}},
+        {"item": {"type": "linkedin", "value": "https://www.linkedin.com/in/jorge-revelo-b22147a3/"}},
+        {"item": {"type": "scholar", "value": "https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=jorge+revelo+rosero&oq="}},
+        {"item": {"type": "orcid", "value": "https://orcid.org/0000-0002-2756-4856"}}
     ]
 }

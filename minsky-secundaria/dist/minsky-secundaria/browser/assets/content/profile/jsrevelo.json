@@ -27,5 +27,10 @@
 		{"item": "Docente - Fundador del Área de Matemáticas, Algoritmos y Programación; y STEAM de Ciencias en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
 		{"item": "Ingeniero de Innovación - Xkale"},
 		{"item": "Pasante de Automatización de Procesos - Schlumberger del Ecuador"}
-	]
+	],
+    "contactos": [
+        {"item": {"type": "mail", "value": "shavi.sprint@gmail.com"}},
+        {"item": {"type": "phone", "value": "+593 99 267 5622"}},
+        {"item": {"type": "linkedin", "value": "https://www.linkedin.com/in/javierrevelo-3b7627132"}}
+    ]
 }

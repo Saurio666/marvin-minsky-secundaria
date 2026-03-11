@@ -12,5 +12,12 @@
 	],
     "experiencia":[
 
-	]
+	],
+    "contactos": [
+        {"item": {"type": "mail", "value": ""}},
+        {"item": {"type": "phone", "value": ""}},
+        {"item": {"type": "linkedin", "value": ""}},
+        {"item": {"type": "scholar", "value": ""}},
+        {"item": {"type": "orcid", "value": ""}}
+    ]
 }

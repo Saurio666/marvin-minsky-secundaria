@@ -18,5 +18,9 @@
     "experiencia":[
         {"item": "Docente de Ciencias Naturales, Química y Biología en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
         {"item": "Docente de Biología y Ciencias Naturales. Unidad Educativa “San Juan Diego”. Ibarra - Ecuador."}
-	]
+	],
+    "contactos": [
+        {"item": {"type": "mail", "value": "naomyldue@gmail.com "}},
+        {"item": {"type": "phone", "value": "+593 98 739 0139"}}
+    ]
 }

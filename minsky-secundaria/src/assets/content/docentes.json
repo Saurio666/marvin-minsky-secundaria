@@ -6,19 +6,19 @@
             "contenido": [
                 {
                     "nombre": "Dr. Jorge Revelo Rosero, PhD.",
-                    "descripcion": "AREA",
+                    "descripcion": "Matemáticas y TIC en Educación",
                     "url": "perfil?id=jerevelo",
                     "imagen": "assets/images/profiles/jerevelo.jpeg"
                 },
                 {
                     "nombre": "Msc. Clara Andrade Erazo",
-                    "descripcion": "AREA",
+                    "descripcion": "Lengua y Literatura y TIC en Educación",
                     "url": "perfil?id=candrade",
                     "imagen": "assets/images/profiles/candrade.png"
                 },
                 {
                     "nombre": "Msc. Carmen Rubio Rivera",
-                    "descripcion": "AREA",
+                    "descripcion": "Psicóloga Educativa - DECE",
                     "url": "perfil?id=crubio",
                     "imagen": "assets/images/profiles/crubio.png"
                 }
@@ -29,21 +29,21 @@
             "contenido": [
                 {
                     "nombre": "Msc. Isabel Cristina Lalama Pilla",
-                    "descripcion": "AREA",
+                    "descripcion": "Lengua y Literatura y TIC en Educación",
                     "url": "perfil?id=iclalama",
                     "imagen": "assets/images/profiles/iclalama.png"
                 },
                 {
                     "nombre": "Msc. Nora Lissette Galarza Godoy",
-                    "descripcion": "AREA",
+                    "descripcion": "Lengua y Literatura y TIC en Educación",
                     "url": "perfil?id=nlgalarza",
                     "imagen": "assets/images/profiles/nlgalarza.png"
                 },
                 {
                     "nombre": "Msc. Edison Mauricio Viana Chulde",
-                    "descripcion": "AREA",
+                    "descripcion": "Matemática, Física, ECA y TIC en Educación",
                     "url": "perfil?id=emviana",
-                    "imagen": ""
+                    "imagen": "assets/images/profiles/emviana.png"
                 }
             ]
         },
@@ -52,19 +52,19 @@
             "contenido": [
                 {
                     "nombre": "Ing. Jorge Luis Revelo Quiroz",
-                    "descripcion": "AREA",
+                    "descripcion": "Ingeniería en Sistemas, Programación y TIC en Educación",
                     "url": "perfil?id=jlrevelo",
                     "imagen": "assets/images/profiles/jlrevelo.png"
                 },
                 {
                     "nombre": "Ing. Javier Steven Revelo Quiroz",
-                    "descripcion": "AREA",
+                    "descripcion": "Programación, Desarrollo de Software y TIC en Educación",
                     "url": "perfil?id=jsrevelo",
                     "imagen": "assets/images/profiles/jsrevelo.png"
                 },
                 {
                     "nombre": "Lic. Naomi Anahí Núñez Cedeño",
-                    "descripcion": "AREA",
+                    "descripcion": "Ciencia Naturales, Química, Biología y TIC en Educación",
                     "url": "perfil?id=nanunez",
                     "imagen": "assets/images/profiles/nanunez.png"
                 }
@@ -75,13 +75,13 @@
             "contenido": [
                 {
                     "nombre": "Lic. Gilber Richar Elizalde Prado",
-                    "descripcion": "AREA",
+                    "descripcion": "Ciencias Sociales y TIC en Educación",
                     "url": "perfil?id=grelizalde",
                     "imagen": "assets/images/profiles/grelizalde.jpeg"
                 },
                 {
                     "nombre": "Msc. Víctor Espinosa Navarro",
-                    "descripcion": "AREA",
+                    "descripcion": "Idioma Inglés y TIC en Educación",
                     "url": "perfil?id=venavarro",
                     "imagen": "assets/images/profiles/venavarro.png"
                 }

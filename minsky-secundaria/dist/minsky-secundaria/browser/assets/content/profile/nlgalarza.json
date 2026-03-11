@@ -22,5 +22,10 @@
 		{"item": "Docente de Lengua y Literatura en la Unidad Educativa Particular Online \"Marvin Minsky\"."},
 		{"item": "Docente de Lengua y Literatura. Unidad Educativa \"Gabriela Mistral\". Quito - Ecuador."},
 		{"item": "Instructora de Formación y Desarrollo en la Corporación Nacional de Telecomunicaciones CNT EP."}
-	]
+	],
+    "contactos": [
+        {"item": {"type": "mail", "value": "noragalarza99@gmail.com"}},
+        {"item": {"type": "phone", "value": "+593 98 466 2784"}},
+        {"item": {"type": "linkedin", "value": "https://www.linkedin.com/in/nora-galarza-godoy-410907219/"}}
+    ]
 }

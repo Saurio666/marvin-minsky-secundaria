@@ -16,7 +16,7 @@
     "areas":[
 		{"item": "Sistemas Informáticos y de Computación."},
 		{"item": "Desarrollo de soluciones tecnológicas innovadoras y optimización de procesos."},
-		{"item": "Arquitectura de software y arquitectura hexagonal."},
+		{"item": "Arquitectura de software."},
 		{"item": "Computación en la nube y automatización de infraestructura (IaC)."},
 		{"item": "Desarrollo web moderno y aplicaciones escalables."},
 		{"item": "Automatización de procesos empresariales."},
@@ -29,5 +29,10 @@
 		{"item": "Ingeniero de Desarrollo, COBISCORP."},
 		{"item": "Experto Nacional de tecnología, SRI."},
 		{"item": "Senior Backend Developer, OSHYN INC."}
-	]
+	],
+    "contactos": [
+        {"item": {"type": "mail", "value": "saurio666@gmail.com"}},
+        {"item": {"type": "phone", "value": "+593 98 425 2588"}},
+        {"item": {"type": "linkedin", "value": "https://www.linkedin.com/in/jrevelo19/"}}
+    ]
 }

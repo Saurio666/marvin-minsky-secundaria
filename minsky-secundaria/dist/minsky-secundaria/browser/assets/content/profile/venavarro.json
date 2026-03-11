@@ -29,5 +29,10 @@
         {"item": "Docente de Inglés en la Unidad Educativa Bilingüe Sagrados Corazones de Rumipamba. Quito - Ecuador"},
         {"item": "Docente de Inglés en el Colegio Municipal Fernández Madrid. Quito - Ecuador"},
         {"item": "Docente de Inglés en la Unidad Educativa Francisca de las Llagas. Quito - Ecuador"}
-	]
+	],
+    "contactos": [
+        {"item": {"type": "mail", "value": "espinosa.nvm.11@gmail.com"}},
+        {"item": {"type": "phone", "value": "+593 98 467 8972"}},
+        {"item": {"type": "linkedin", "value": "https://www.linkedin.com/in/victor-espinosa-navarro-93517914b/"}}
+    ]
 }

@@ -24,5 +24,11 @@
 		{"item": "Docente y Coordinadora del Departamento de investigación y Psicóloga. Unidad Educativa Municipal Experimental Sucre. Quito - Ecuador."},
 		{"item": "Docente de la Unidad Educativa Municipal \"San Francisco de Quito\". Quito - Ecuador."},
 		{"item": "Docente de del colegio Particular Mixto \"Mena del Hierro\". Quito - Ecuador."}
+    ],
+    "contactos": [
+        {"item": {"type": "mail", "value": "carmyru71@hotmail.com"}},
+        {"item": {"type": "phone", "value": "+593 99 479 7802"}},
+        {"item": {"type": "scholar", "value": "https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=Carmen+Rubio+Rivera&btnG="}},
+        {"item": {"type": "orcid", "value": "https://orcid.org/0009-0000-8566-3476"}}
     ]
 }

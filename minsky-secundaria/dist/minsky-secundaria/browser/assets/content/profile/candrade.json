@@ -29,5 +29,12 @@
 		{"item": "Docente de Lengua y Literatura en la Unidad Educativa Fiscal \"Mejía\". Distrito 4. Quito - Ecuador."},
 		{"item": "Docente de Lengua y Literatura en la Unidad Educativa Particular \"Cardenal De la Torre\". Quito - Ecuador."},
 		{"item": "Docente de Ciencias Sociales en la Unidad Educativa Particular \"Luis Fidel Martínez\". Quito - Ecuador."}
+    ],
+    "contactos": [
+        {"item": {"type": "mail", "value": "merceditas_andrade@yahoo.com"}},
+        {"item": {"type": "phone", "value": "+593 969069595"}},
+        {"item": {"type": "linkedin", "value": "https://www.linkedin.com/in/clarita-andrade-ab464aaa "}},
+        {"item": {"type": "scholar", "value": "https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=clara+andrade+erazo&oq=clara+andrade"}},
+        {"item": {"type": "orcid", "value": "http://orcid.org/0000-0002-4823-1014"}}
     ]
 }

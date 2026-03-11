@@ -19,5 +19,9 @@
         {"item": "Docente - Fundador del Área de Ciencias Sociales Unidad Educativa Particular Online \"Marvin Minsky\"."},
         {"item": "Coordinador del Área de Ciencias Sociales Unidad Educativa Particular Online \"Marvin Minsky\"."},
         {"item": "Docente de la Unidad Educativa Pichincha. Quito."}
-	]
+	],
+    "contactos": [
+        {"item": {"type": "mail", "value": "richyelizalde57@gmail.com"}},
+        {"item": {"type": "phone", "value": "+593 98 919 8238"}}
+    ]
 }
