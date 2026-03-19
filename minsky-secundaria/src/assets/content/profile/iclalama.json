@@ -29,8 +29,9 @@
 		{"item": "Docente de la Unidad Educativa ALEMBERT en el área de Lengua y Literatura de Básica Media, Superior y Bachillerato."}
 	],
     "contactos": [
-        {"item": {"type": "mail", "value": "noragalarza99@gmail.com"}},
-        {"item": {"type": "phone", "value": "+593 98 466 2784"}},
-        {"item": {"type": "linkedin", "value": "https://www.linkedin.com/in/nora-galarza-godoy-410907219/"}}
+        {"item": {"type": "mail", "value": "isabellalama9@gmail.com"}},
+        {"item": {"type": "phone", "value": "+593 98 782 0956"}},
+        {"item": {"type": "scholar", "value": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=isabel+cristina+lalama+pilla&oq="}},
+		{"item": {"type": "ocid", "value": "https://orcid.org/0000-0002-1977-0369"}}
     ]
 }
