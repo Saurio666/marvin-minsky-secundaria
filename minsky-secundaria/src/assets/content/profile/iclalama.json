@@ -32,6 +32,6 @@
         {"item": {"type": "mail", "value": "isabellalama9@gmail.com"}},
         {"item": {"type": "phone", "value": "+593 98 782 0956"}},
         {"item": {"type": "scholar", "value": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=isabel+cristina+lalama+pilla&oq="}},
-		{"item": {"type": "ocid", "value": "https://orcid.org/0000-0002-1977-0369"}}
+		{"item": {"type": "orcid", "value": "https://orcid.org/0000-0002-1977-0369"}}
     ]
 }
